@@ -1,0 +1,20 @@
+.data {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.id {
+    background-color: rgb(39, 212, 39);
+    text-align: center;
+}
+.forms {
+    align-self: center;
+    color: blue;
+    border: blue;
+    border-width: 2px;
+    border-radius: 5;
+    align-content: center;
+    align-self: center; 
+}
+body {
+    color: burlywood;
+}
